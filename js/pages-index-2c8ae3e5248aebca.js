@@ -158,7 +158,7 @@
 										className: "sr-only",
 										children: "Asset Delivery"
 									}), (0, t.jsx)(o(), {
-										src: "https://raw.githubusercontent.com/Pacifest/assetdelivery.xyz/main/images/Logo.png",
+										src: "https://raw.githubusercontent.com/Pacifest/assetdelivery.xyz/main/images/DLogo.png",
 										alt: "Workflow",
 										height: 32,
 										width: 32
@@ -203,7 +203,7 @@
 											className: "sr-only",
 											children: "Asset Delivery"
 										}), (0, t.jsx)(o(), {
-											src: "https://raw.githubusercontent.com/Pacifest/assetdelivery.xyz/main/images/Logo.png",
+											src: "https://raw.githubusercontent.com/Pacifest/assetdelivery.xyz/main/images/DLogo.png",
 											alt: "Workflow",
 											height: 32,
 											width: 32
